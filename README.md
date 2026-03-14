@@ -1,2 +1,1 @@
-# cmp
-compose multi platform
+# cmp (compose multi platform 채팅 기능)
